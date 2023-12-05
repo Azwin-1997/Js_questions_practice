@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <script>
+    function wordSwitch(arr){
+        let booSwitch = false;
+        return arr.reduce((a,b)=>{
+            if(b==="bridgeon"){
+                booSwitch=!booSwitch;
+                a.push(!booSwitch)
+            }else{
+                a.push(!booSwitch)
+            }
+            return a;
+        },[])
+    }
+    console.log(wordSwitch(["brige","bridgeon","bri"]));
+   </script> 
+</body>
+</html>
