@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function strReverse(str) {
+        let arr1 = [];
+        let arr = str.split(" ");
+        for (let i = 0; i < arr.length; i++) {
+          if (arr[i].length >= 5) {
+            let reversedstring = arr[i].split("").reverse().join("");
+            arr1.push(reversedstring);
+          } else {
+            arr1.push(arr[i]);
+          }
+        }
+        return arr1.join(' ')
+      }
+      console.log(strReverse("Hey fellow warriors"));
+    </script>
+  </body>
+</html>
