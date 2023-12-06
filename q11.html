@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function highLow(str){
+            str3 = []
+            let str1 = str.split(" ")
+            str2 = str1.sort((a,b)=> a-b)
+ str3.push(str2[0] , str2[str2.length-1])
+ 
+return str3.join(" ")
+        }
+        console.log(highLow("1 6 2 3 5"));
+    </script>
+</body>
+</html>
