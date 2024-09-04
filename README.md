@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0344-reverse-string) |
+| [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
