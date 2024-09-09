@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String Matching
 |  |
 | ------- |
