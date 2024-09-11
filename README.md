@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
