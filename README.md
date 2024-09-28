@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
