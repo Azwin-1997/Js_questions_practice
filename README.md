@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2556-convert-the-temperature) |
