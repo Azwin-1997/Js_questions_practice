@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1205-defanging-an-ip-address) |
@@ -56,16 +57,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
