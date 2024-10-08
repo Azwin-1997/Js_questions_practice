@@ -8,10 +8,9 @@ var scoreOfString = function(s) {
         newArr.push(s.charCodeAt(i))
     }
     var sum = []
-    for(j=0;j<newArr.length;j++){
+    for(j=0;j<newArr.length-1;j++){
         sum.push(Math.abs(newArr[j]- newArr[j+1]))
     }
-    sum.pop()
     let diff = sum.reduce((acc,curr)=>{
         return acc +  curr
     })
