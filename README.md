@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1603-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
@@ -58,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -94,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
