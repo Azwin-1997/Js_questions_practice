@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
