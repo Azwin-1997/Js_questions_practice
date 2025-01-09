@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1205-defanging-an-ip-address) |
+| [1970-sorting-the-sentence](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3379-score-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
