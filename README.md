@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1205-defanging-an-ip-address) |
 | [1970-sorting-the-sentence](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
 ## Simulation
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
