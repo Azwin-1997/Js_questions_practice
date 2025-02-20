@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String Matching
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2491-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
