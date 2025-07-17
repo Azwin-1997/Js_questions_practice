@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0605-can-place-flowers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1791-richest-customer-wealth) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2556-convert-the-temperature) |
