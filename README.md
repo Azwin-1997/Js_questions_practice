@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0414-third-maximum-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0389-find-the-difference) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Azwin-1997/Js_questions_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
