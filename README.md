@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3194-find-words-containing-character) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Azwin-1997/Js_questions_practice/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Azwin-1997/Js_questions_practice/tree/master/1603-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Azwin-1997/Js_questions_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
